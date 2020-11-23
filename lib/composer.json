@@ -1,0 +1,7 @@
+{
+    "name": "wef/mp",
+    "description": "sla",
+    "require": {
+        "mercadopago/dx-php": "dev-master"
+    }
+}
